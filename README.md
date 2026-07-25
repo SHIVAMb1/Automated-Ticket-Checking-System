@@ -304,13 +304,10 @@ The **Automated Ticket Checking System Using QR Code** successfully demonstrates
 ---
 
 ## 👤 Author
+**SHIVAM BORANE**
 
-**[Your Name]**
-Final Year Engineering Student
-
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
-- LinkedIn: [your-linkedin](https://linkedin.com)
+- Email: shivam.v.borane007@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shivam-borane-530a772a9
 
 ---
 
