@@ -1,0 +1,38 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Project-specific generated files
+*.png
+!images/*.png
+!hardware/*.png
+*_qr_code.png
+QR-CODE DATA.txt
+
+# Logs
+*.log
+
+# Environment variables
+.env
